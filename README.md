@@ -1,5 +1,5 @@
 # Graphic-Enhancer
-To enhance your visuals with image processing
+To enhance your visuals through image processing techniques
 
 ## Overview
 
